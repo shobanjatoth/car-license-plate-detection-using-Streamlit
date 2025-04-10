@@ -1,11 +1,5 @@
 streamlit==1.44.1
-ultralytics==8.3.103
 opencv-python-headless==4.7.0.72
-pillow==11.1.0
 paddleocr==2.5.1
 paddlepaddle==2.5.0
-torch==2.1.0
-torchvision==0.15.0
-scikit-image==0.25.2
-scipy==1.15.2
-seaborn==0.13.2
+ultralytics==8.3.103
